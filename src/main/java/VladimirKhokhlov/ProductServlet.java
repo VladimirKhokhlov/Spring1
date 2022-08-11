@@ -50,4 +50,5 @@ public class ProductServlet extends HttpServlet {
         }
         wr.println("</table>");
     }
+
 }
